@@ -65,7 +65,7 @@ BiocManager::install(
         # 'BiocSingular',
         # 'batchelor',
         'uwot',
-        # 'Rtsne',
+        'Rtsne',
         # 'pheatmap',
         # 'fossil',
         # 'ggplot2',
